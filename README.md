@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have a background in sensory physiology and bioinformatics. I did my DPhil at the University of Oxford with Prof. David Bennett and Prof. Georgios Baskozos, looking at the molecular profiling of murine primary afferents in neuropathic pain. 
+Hello, I'm Ali! I'm a pain neurobiologist/bioinformatician specialized in multi-omics. 
 
 Currently, I split my time with the University of Vienna and University of Texas at Dallas using multi-omic methods to understand pain pathophysiology. My work here focuses on human DRG proteomics, as well as a combination of spatial compartmental approaches including spatial proteomics through laser capture microdissection, proximity labelling, and synaptosome profiling. 
 
 I also maintain a connection to the University of Oxford, Nuffield Department of Clinical Neuroscience as an Academic Visitor where I study sensory neurons and iPSC derived nociceptors across pai​nful conditions and model systems. More details can be found on the departmental [website](https://www.ndcn.ox.ac.uk/team/allison-barry).
 
-📫 allison.barry[at]utdallas.edu or bsky @aliibarry.bsky.social
+## Contact
 
-## Publications
+📫 allison.barry[at]utdallas.edu or @aliibarry.bsky.social
 
-My google scholar account is typically the most up-to-date, [papers can be found here](https://scholar.google.com/citations?user=ZvFCIdEAAAAJ&hl=en).
+- [Publications](https://scholar.google.com/citations?user=ZvFCIdEAAAAJ&hl=en) 
+- [CV, July 2025](./FullCV_BarryAM_July2025.pdf) 
 
 
