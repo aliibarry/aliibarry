@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello, I'm Ali! I'm a pain neurobiologist/bioinformatician specialized in multi-omics. 
 
-Currently, I split my time with the University of Vienna and University of Texas at Dallas using multi-omic methods to understand pain pathophysiology. My work here focuses on human DRG proteomics, as well as a combination of spatial compartmental approaches including spatial proteomics through laser capture microdissection, proximity labelling, and synaptosome profiling. 
+Currently, I work with the University of Texas at Dallas using multi-omic methods to understand pain pathophysiology. My work here focuses on human DRG proteomics, as well as a combination of spatial compartmental approaches including spatial proteomics through laser capture microdissection, proximity labelling, and synaptosome profiling. 
 
 I also maintain a connection to the University of Oxford, Nuffield Department of Clinical Neuroscience as an Academic Visitor where I study sensory neurons and iPSC derived nociceptors across pai​nful conditions and model systems. More details can be found on the departmental [website](https://www.ndcn.ox.ac.uk/team/allison-barry).
 
