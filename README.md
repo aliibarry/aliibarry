@@ -26,6 +26,6 @@ I also maintain a connection to the University of Oxford, Nuffield Department of
 📫 allison.barry[at]utdallas.edu or @aliibarry.com
 
 - [Publications](https://scholar.google.com/citations?user=ZvFCIdEAAAAJ&hl=en) 
-- [CV, Sept 2025](./FullCV_BarryAM_Sept2025.pdf) 
+- [CV, Apr 2026](./FullCV_BarryAM_Apr2026.pdf) 
 
 
